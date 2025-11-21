@@ -1,0 +1,5 @@
+{
+  "name": "AlertGenius AI",
+  "description": "A smart alert system that uses Gemini AI to generate dynamic email content based on user-defined schedules and prompts.",
+  "requestFramePermissions": []
+}
